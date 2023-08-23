@@ -6,7 +6,7 @@ HKDSE revision notes, for 2026 DSE
 > 
 
 # Privacy
-The original file is in google docs, be careful of website trackers.
+The original file is in google docs, be careful of website trackers.<br/>
 OR you can download the file as the release page.
 
 # DETAILED LICENSE
